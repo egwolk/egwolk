@@ -6,6 +6,6 @@
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=egwolk&theme=nightowl&hide_border=true&days=10&height=470&hide_title=true&radius=10&area=true" width="49%">
    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=egwolk&theme=nightowl&hide_border=true" width="49%" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=egwolk&theme=nightowl&hide_border=true&days=10&height=470&hide_title=true&radius=10&area=true" width="49%">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=egwolk&theme=nightowl&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=egwolk&theme=nightowl&hide_border=true" width="49%" />
 </p>
 
